@@ -1,0 +1,74 @@
+*******WELCOME TO BANK OF BHUTAN*******
+___________________________________________________________
+ 
+----------ACCOUNT CREATION----------
+Enter your name: Dawa Penjor
+Enter your account number: 23435465
+Congratulations! Account created successfully......
+ 
+Do you want to do any transaction?(y/n):f
+Wrong command!  Enter 'y' for yes and 'n' for NO.
+ 
+Do you want to do any transaction?(y/n):y
+ 
+            TRANSACTION 
+        *********************
+            Menu:
+            1. Account Detail
+            2. Check Balance
+            3. Deposit
+            4. Withdraw
+            5. Exit
+        *********************
+         
+Enter 1, 2, 3, 4 or 5:1
+ 
+----------ACCOUNT DETAIL----------
+Account Holder: DAWA PENJOR
+Account Number: 23435465
+Available balance: Nu.0
+ 
+Enter 1, 2, 3, 4 or 5:2
+Available balance: Nu. 0
+ 
+Enter 1, 2, 3, 4 or 5:3
+How much you want to deposit(Nu.):7000
+Current account balance: Nu. 7000
+ 
+Enter 1, 2, 3, 4 or 5:3
+How much you want to deposit(Nu.):5000
+Current account balance: Nu. 12000
+ 
+Enter 1, 2, 3, 4 or 5:2
+Available balance: Nu. 12000
+ 
+Enter 1, 2, 3, 4 or 5:4
+How much you want to withdraw(Nu.):15000
+Insufficient fund!
+Your balance is Nu.12000 only.
+Try with lesser amount than balance.
+ 
+Enter 1, 2, 3, 4 or 5:4
+How much you want to withdraw(Nu.):10000
+Nu.10000 withdrawal successful!
+Current account balance: Nu. 2000
+ 
+Enter 1, 2, 3, 4 or 5:1
+ 
+----------ACCOUNT DETAIL----------
+Account Holder: DAWA PENJOR
+Account Number: 23435465
+Available balance: Nu.2000
+ 
+Enter 1, 2, 3, 4 or 5:5
+ 
+                printing receipt..............
+          ******************************************
+              Transaction is now complete.                         
+              Transaction number: 754981
+              Account holder: DAWA PENJOR                  
+              Account number: 23435465               
+              Available balance: Nu.2000                   
+ 
+              Thanks for choosing us as your bank                  
+          ******************************************
